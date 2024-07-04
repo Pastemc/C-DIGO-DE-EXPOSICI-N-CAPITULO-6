@@ -34,7 +34,8 @@ plt.title('Imagen Convertida (BGR)')
 
 plt.show()
 
-2)import cv2
+2) #Ejercicio 2
+import cv2
 import numpy as np
 
 def rgb_to_cmyk(image):
